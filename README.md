@@ -22,3 +22,6 @@ Currently pursuing a BSc in Mathematics and Computer Science at Kenyatta Univers
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megytherah&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Megytherah)
+
+
